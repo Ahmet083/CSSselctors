@@ -1,0 +1,47 @@
+body{
+    background: turquoise;
+}
+
+.futbol{
+    font-size: 30px;
+    background-color: yellow !important;
+}
+.basket{
+    font-size: 25px;
+}
+.valeybol{
+    font-size: 30px;
+}
+#fener{
+    color:blue;
+
+   
+}
+#galata{
+    color: red;
+    background-color: yellowgreen;
+   
+} 
+
+.futbol1 {
+    font-size: 40px;
+    color: white;
+    background-color: blueviolet;
+}
+
+.futbol1 p{
+    color:yellow;
+    background: blue;
+}
+.futbol1 p em{
+    color: white;
+}
+#basket1 h2 {
+    color:yellow;
+    text-align:center;
+    font-size: 25px;
+}
+#basket1 p{
+    color:white;
+    background: gray;
+}

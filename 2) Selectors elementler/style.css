@@ -1,0 +1,27 @@
+body{
+    background:gray;
+    width: 75%;
+}
+
+#baslik{
+    color:brown;
+    font-size:50px;
+    text-align: center;
+}
+#kurs{
+    color:blue;
+    background-color: yellow;
+    text-align: center;
+    font-size: 25px;
+}
+#lorem{
+    text-align: justify;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+    background: black;
+}
+.turler{
+    color:white;
+    font-size: 20px;
+    background-color:blueviolet
+}
